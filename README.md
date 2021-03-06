@@ -1,6 +1,4 @@
 # School-21
-## Common Circle
-
 | Circle | Project                                | Language | Topics                                           | Date of Completion |                  |
 | :----: | :------------------------------------- | :------: | :----------------------------------------------- | :----------------: |:----------------:|
 |   1    | [**Libft**](https://github.com/ncliff-git/libft_by_ncliff)                            |    C     | `library` `Makefile` `linked list`               |     04.11.2020     |<p><img src="https://github.com/ncliff-git/screenshots/blob/master/libf_success.png" alt="42 Logo.svg" width="100"></p>|
